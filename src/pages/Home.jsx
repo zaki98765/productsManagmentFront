@@ -129,7 +129,7 @@ function Home() {
 
 
                 <Link
-                  to="/add-product"
+                  to="/AddP"
                   className="px-6 py-3 border border-gray-300 hover:border-indigo-500 hover:text-indigo-500 text-gray-700 rounded-xl font-medium transition"
                 >
                   + Add Product
